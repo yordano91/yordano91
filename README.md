@@ -1,5 +1,4 @@
-### Hi there 👋
-<br> I'm Yordano Sanabia Padrón, Full Stack Web Developer :computer:<br>
+### Hi there 👋 I'm Yordano Sanabia Padrón, Full Stack Web Developer who love programing :computer:<br>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -17,3 +16,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Vuejs" width="40" height="40"/> </a>
 </p>
+<div style="widht: 99%">
+    <a href="https://github.com/yordano91">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yordano91&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordano91&layout=compact&langs_count=7&theme=dark"/>
+    </a>
+</div>
