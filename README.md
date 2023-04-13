@@ -19,10 +19,9 @@
 <div style="widht: 99%">
     <a href="https://github.com/yordano91">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yordano91&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordano91&layout=compact&langs_count=7&theme=dark"/>
     </a>
 </div>
-##
+
 <div>
     <img src="https://github.com/ale94lko/ale94lko/blob/output/github-contribution-grid-snake.svg"/>
 </div>
