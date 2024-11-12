@@ -16,8 +16,3 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Vuejs" width="40" height="40"/> </a>
 </p>
-<div style="widht: 99%">
-    <a href="https://github.com/yordano91">
-        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yordano91&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
-    </a>
-</div>
