@@ -18,7 +18,7 @@
 </p>
 <div style="widht: 99%">
     <a href="https://github.com/yordano91">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yordano91&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=&theme=dark&show_icons=true"/>
     </a>
 </div>
 
